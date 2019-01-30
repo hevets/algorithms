@@ -14,3 +14,5 @@ __pycache__/
 # docs
 build/
 .python-version
+.venv
+Pipfile
